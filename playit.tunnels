@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "read-diagram.gl.joinmc.link",
-          "assigned_srv": "read-diagram.gl.joinmc.link",
+          "assigned_domain": "red-hip.gl.joinmc.link",
+          "assigned_srv": "red-hip.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "966edb00-83d5-4879-a995-b7ebc9d60e83",
-          "ip_hostname": "23.ip.gl.ply.gg",
+          "id": "8b4de775-7e18-49fe-9d30-cb5ba53f700e",
+          "ip_hostname": "19.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 37748,
-          "port_start": 37747,
+          "port_end": 56089,
+          "port_start": 56088,
           "region": "global",
-          "static_ip4": "147.185.221.23",
-          "tunnel_ip": "2602:fbaf:0:1::17"
+          "static_ip4": "147.185.221.19",
+          "tunnel_ip": "2602:fbaf:0:1::13"
         },
         "status": "allocated"
       },
-      "created_at": "2024-10-26T18:34:10.665063Z",
+      "created_at": "2024-10-26T23:30:57.513576Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "5c319b06-bc63-4200-bc47-7a6cb47ae796",
+      "id": "44fd7197-5026-4672-b8dd-8626cdbe205c",
       "name": "Minecraft Java",
       "origin": {
         "data": {
